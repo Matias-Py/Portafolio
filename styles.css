@@ -15,7 +15,7 @@ a{
 #header{
     display: grid;
     grid-template-columns: 50% 50%;
-    background-color: #0D0D0D;
+    background-color: #012A4A;
     height: 5em;
 }
 #titulo{
@@ -52,7 +52,7 @@ a{
     height: auto;
 }
 #textos-presentacion{
-    background-color: #262626;
+    background-color: #01497C;
     color: white;
     display: flex;
     flex-direction: column;
@@ -97,28 +97,28 @@ h3{
     /*grid-template-rows: 10% 10% 80%;*/
 }
 #tributo{
-    background-color: #262626;
+    background-color: #2A6F97;
 }
 #formulario{
-    background-color: #595959;
+    background-color: #2C7DA0;
 }
 #landing_page{
-    background-color: #404040;
+    background-color: #468FAF;
 }
 #documentacion{
-    background-color: #A6A6A6;
+    background-color: #61A5C2;
 }
 #blog1{
-    background-color: #262626;
+    background-color: #61A5C2;
 }
 #blog2{
-    background-color: #595959;
+    background-color: #2A6F97;
 }
 
 #footer{
     color: white;
     margin-top: 3em;
-    background-color: #0D0D0D;
+    background-color: #012A4A;
     text-align: center;
     height: 4em;
     padding-top: 1.7em;
